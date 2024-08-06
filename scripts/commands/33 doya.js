@@ -1,7 +1,7 @@
   module.exports.config = {
   name: "doya",
   version: "1.2.8",
-  Permssion: 0,
+  permission: 0,
   credits: "Islamick Chat", 
   prefix:true,
   description: "Short doya",
